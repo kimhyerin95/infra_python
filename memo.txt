@@ -1,0 +1,4 @@
+- 할일 목록
+python 공부하기
+git 공부하기
+network 공부하기
